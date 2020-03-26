@@ -11,6 +11,6 @@ padding: 5px;
 .t1{
     border : 2px solid black;
   }
-  .t2 td, .t2 th{
+.t2 th, .t2 td{
     border: 1px solid grey;
   }
